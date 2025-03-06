@@ -6,11 +6,15 @@ Welcome to my GitHub profile! I'm a passionate and driven Java Full Stack Develo
 
 Enthusiastic developer with a strong foundation in both back-end and front-end technologies. I have expertise in:
 
-Programming Languages:  Java, JavaScript, SQL.
+Programming Languages:  Java, JavaScript
 
-Technologies/Frameworks: HTML/CSS, React,JPA, Hibernate, Spring Boot.
+Database:MySql
 
-Developer Tools: Eclipse IDE, VS Code, Workbench,IntelliJ.
+Technologies/Frameworks: HTML/CSS, React Js,JPA, Hibernate, Spring Boot.
+
+Developer Tools: Eclipse IDE, VS Code, Workbench,IntelliJ,Jira.
+
+Testing:Junit,Mockito
 
 AI Tools:ChatGpt,Amazon Q
 
