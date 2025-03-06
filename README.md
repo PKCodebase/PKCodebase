@@ -1,34 +1,41 @@
-Hi, I'm Kaushik Prasad!👋
+✨ Hi, I'm Kaushik Prasad! 👋
 
 🌟 Aspiring Java Full Stack Developer | 💻 Tech Enthusiast | 🚀 Lifelong Learner
 
-Welcome to my GitHub profile! I'm a passionate and driven Java Full Stack Developer with a strong foundation in building dynamic, responsive, and user-friendly web applications. My technical expertise spans back-end technologies like  Java, Hibernate,  Spring Boot,MySql alongside front-end technologies such as HTML/CSS, JavaScript, and ReactJS. I thrive on solving complex problems and continuously strive to enhance my skills in full-stack development. I am eager to contribute to an innovative organization where I can leverage my abilities, grow professionally, and deliver impactful solutions."
+🔹 About Me
+🚀 Passionate Java Full Stack Developer with expertise in building dynamic, responsive, and user-friendly web applications. I have a strong grasp of both back-end and front-end technologies and love problem-solving.
 
-Enthusiastic developer with a strong foundation in both back-end and front-end technologies. I have expertise in:
+💡 I strive to enhance my skills continuously and contribute to innovative solutions that make an impact.
 
-Programming Languages:  Java, JavaScript
+💻 Tech Stack & Skills
+🛠 Programming Languages:
+🎯 Java ☕ | JavaScript ✨
 
-Database:MySql
+🗄 Database:
+🛢️ MySQL
 
-Technologies/Frameworks: HTML/CSS, React Js,JPA, Hibernate, Spring Boot.
+📜 Technologies/Frameworks:
+🖥️ HTML / CSS 🎨 | ReactJS ⚛️ | JPA | Hibernate 🏛 | Spring Boot 🌿
 
-Developer Tools: Eclipse IDE, VS Code, Workbench,IntelliJ,Jira.
+🛠 Developer Tools:
+🖥️ Eclipse IDE 🌙 | VS Code 📝 | IntelliJ IDEA 🚀 | Workbench 🔧 | Jira 📌
 
-Testing:Junit,Mockito
+🧪 Testing:
+🧩 JUnit ✅ | Mockito 🎭
 
-AI Tools:ChatGpt,Amazon Q
+🤖 AI Tools:
+🤖 ChatGPT | 🛠 Amazon Q
 
-Coursework/ Skills: Data Structures and Algorithms, OOPs Concepts.
+📚 Coursework / Skills:
+⚡ Data Structures & Algorithms 📊 | OOPs Concepts 👨‍💻
 
-Passionate about crafting dynamic web applications, collaborating with designers, and embracing new technologies and best practices to build scalable, user-friendly software solutions.
-
+🚀 Projects & Contributions
+🔹 Check out my repositories to explore my projects! 🌟
 
 🔗 Let's Connect!
+🔹 LinkedIn: Kaushik Prasad 🌐
+🔹 LeetCode: kprasad05 🏆
+📩 Email: kaushikprasad1659@gmail.com 📬
 
-LinkedIn: https://www.linkedin.com/in/kaushik-prasad-467231281/
+🌟 Thanks for visiting! Feel free to explore my repositories and connect. Let’s build something amazing together! 🚀
 
-LeetCode:https://leetcode.com/u/kprasad05/
-
-Email: kaushikprasad1659@gmail.com
-
-Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to connect or collaborate. ✨
