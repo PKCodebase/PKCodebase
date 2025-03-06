@@ -49,5 +49,5 @@ Continuously learning and adapting to new technologies.
 🔗 Let's Connect!
 LinkedIn: Abhinav Prasad
 Portfolio: My Website
-Email: abhinavprasad267@gmail.com
+Email: kaushikprasad1659@gmail.com
 Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to connect or collaborate. ✨
