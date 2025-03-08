@@ -1,8 +1,8 @@
  Hi, I'm Kaushik Prasad! 👋
 
-🌟 Aspiring Java Full Stack Developer | 💻 Tech Enthusiast | 🚀 Lifelong Learner
+🌟 Aspiring Java  Developer | 💻 Tech Enthusiast | 🚀 Lifelong Learner
 
-🔹 About Me
+🔹 About Me:
 
 Passionate Backend Developer with expertise in Java, Spring Boot, and MySQL. I specialize in building scalable, secure, and high-performance backend systems, focusing on efficient data management and API development.
 
