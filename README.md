@@ -29,7 +29,7 @@ Passionate Backend Developer with expertise in Java, Spring Boot, and MySQL. I s
 
 🔗 Let's Connect!
 
- LinkedIn: Kaushik Prasad 
+ LinkedIn: kaushik-prasad-467231281
 
  LeetCode: kprasad05 
 
