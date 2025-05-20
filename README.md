@@ -12,7 +12,7 @@ Passionate Backend Developer with expertise in Java, Spring Boot, and MySQL. I s
 
  Programming Languages: Java  | JavaScript 
 
- Database: MySQL/PLSQl,Mongo DB
+ Database: MySQL/PLSQl,Mongo DB , PostgreSQL
 
  Technologies/Frameworks: HTML / CSS |BootStrap | ReactJS | JPA | Hibernate  | Spring Boot | SOLID Principles | Design Patterns
 
