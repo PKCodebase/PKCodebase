@@ -1,4 +1,4 @@
- Hi, I'm Kaushik Prasad! 👋
+Hi,I'm Kaushik Prasad 👋
 
 🌟 Aspiring Java  Developer | 💻 Tech Enthusiast | 🚀 Lifelong Learner
 
