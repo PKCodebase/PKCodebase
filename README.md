@@ -20,7 +20,7 @@ Passionate Backend Developer with expertise in Java, Spring Boot, and MySQL. I s
 
  Testing: JUnit  | Mockito 
 
- AI Tools: ChatGPT |  Amazon Q
+ AI Tools: ChatGPT |  Amazon Q | Copilot
 
  Coursework / Skills: Data Structures & Algorithms  | OOPs Concepts 
 
