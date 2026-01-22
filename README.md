@@ -14,7 +14,7 @@ Passionate Backend Developer with expertise in Java, Spring Boot, and MySQL. I s
 
  Database: MySQL/PLSQl,Mongo DB , PostgreSQL
 
- Technologies/Frameworks: HTML / CSS |BootStrap | ReactJS | JPA | Hibernate  | Spring Boot | SOLID Principles | Design Patterns | Angular
+ Technologies/Frameworks: HTML / CSS |BootStrap | ReactJS | Angular | JPA | Hibernate  | Spring Boot | SOLID Principles | Design Patterns | Angular
 
  Developer Tools: Eclipse IDE  | VS Code  | IntelliJ IDEA  | Workbench  | Jira | STS
 
