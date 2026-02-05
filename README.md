@@ -16,7 +16,7 @@ Passionate Backend Developer with expertise in Java, Spring Boot, and MySQL. I s
 
  Technologies/Frameworks: HTML / CSS |BootStrap | Angular | JPA | Hibernate  | Spring Boot | SOLID Principles | Design Patterns | Angular
 
- Developer Tools: Eclipse IDE  | VS Code  | IntelliJ IDEA  | Workbench  | Jira | STS
+ Developer Tools: Eclipse IDE | IntelliJ IDEA | STS | VS Code | MySQL Workbench | Jira | Docker
 
  Testing: JUnit  | Mockito 
 
